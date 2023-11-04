@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxh435XiKmkKm5H+asvUTOgAAAAACAAAAAAAQZgAAAAEAACAAAAC+AolhUa0Dv+HvHkWEE7DMZSfhEzWz+s76T4Ecm1DthwAAAAAOgAAAAAIAACAAAABwaH1Dh5w4ZKaNf3obM5Bm944gsoAtWvdHYhvl89B/TTAAAABYRQFMk1NqFFH79a+m4ObW2d4jzAT7hSjx6G0mdfwbrH1JA5S4DTdzbVOIhgenmeVAAAAALk4LducobQQ/+Pi4toLeOEi87/J++RdIIne7+tsmYt/7U9i4BmFMpPD2hxOp8yg7WYwrfbhQvhW8/dggHuyotA==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://198.37.116.30/www.student-api.somee.com</_PublishTargetUrl>
+    <History>False|2023-11-04T16:13:33.0801339Z;False|2023-11-04T21:39:07.7638849+05:30;False|2023-11-04T21:38:30.4965615+05:30;False|2023-11-04T21:37:43.5371038+05:30;False|2023-11-04T21:35:05.9594087+05:30;False|2023-11-04T21:34:21.1771362+05:30;False|2023-11-04T21:33:21.1769029+05:30;False|2023-11-04T21:32:58.1375424+05:30;False|2023-11-04T21:28:51.1244238+05:30;False|2023-11-04T21:28:06.3495010+05:30;False|2023-11-04T21:26:37.4093121+05:30;False|2023-11-04T21:25:36.4150449+05:30;False|2023-11-04T21:23:40.7621689+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
