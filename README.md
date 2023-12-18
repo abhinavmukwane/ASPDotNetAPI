@@ -2,4 +2,4 @@
 ASP.NET Core Web API
 
 # Live Link
-https://www.student-api.somee.com/
+http://www.student-api.somee.com/Swagger/index.html
